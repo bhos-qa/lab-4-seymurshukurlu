@@ -35,4 +35,4 @@ jobs:
             -Dsonar.host.url=https://sonarcloud.io
             -Dsonar.java.binaries=app/build/classes/java/main
         env:
-          SONAR_TOKEN: ${{ secrets.SONAR_TOKENN }}
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN1 }}
