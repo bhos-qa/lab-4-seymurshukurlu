@@ -6,7 +6,7 @@ plugins {
 
 sonarqube {
     properties {
-        property("sonar.projectKey", "bhos-qa_lab-4-Elvina18")
+        property("sonar.projectKey", "bhos-qa_lab-4-seymurshukurlu")
         property("sonar.organization", "bhos-qa")
         property("sonar.host.url", "https://sonarcloud.io")
     }
